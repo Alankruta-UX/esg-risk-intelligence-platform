@@ -1,0 +1,7 @@
+Facility,Energy_kWh,Water_m3,Emissions_tCO2,Month,ESG_Score,Validation_Status,Risk_Level
+Plant_A,12000.0,300,55.0,Jan,90,Valid,Medium
+Plant_B,,280,60.0,Jan,65,Missing Data,High
+Plant_C,15000.0,-50,70.0,Jan,75,Invalid Negative Value,Medium
+Plant_A,12000.0,300,55.0,Jan,90,Valid,Medium
+Plant_D,999999.0,400,65.0,Jan,45,Unrealistic Energy,High
+Plant_E,14000.0,350,,Jan,50,Missing Data,High
